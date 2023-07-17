@@ -27,4 +27,3 @@ def step_then_check_user_data(context):
     assert user_data['first_name'] == 'Janet'               # Valida os dados em si
     assert user_data['last_name'] == 'Weaver'    
     assert user_data['email'] == 'janet.weaver@reqres.in'           
-#pão
